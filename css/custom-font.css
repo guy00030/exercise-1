@@ -19,7 +19,7 @@
 }
 */
  
- [class^="icon-"]:before, [class*=" icon-"]:before {
+ [class^="icon-"]:before, [class*="icon-"]:before {
   font-family: "custom-font";
   font-style: normal;
   font-weight: normal;
@@ -50,6 +50,7 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
+.icon-f:before { content: '\e805'; } /* '' */
 .icon-twitter-bird:before { content: '\e800'; } /* '' */
 .icon-wind:before { content: '\e801'; } /* '' */
 .icon-tree-2:before { content: '\e802'; } /* '' */
