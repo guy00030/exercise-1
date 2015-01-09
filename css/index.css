@@ -17,6 +17,14 @@ html {
 	box-sizing: inherit;
 }
 
+body {
+	background-color: #5b535f;
+}
+
+.icon-f:before {
+	width: 30px;
+}
+
 .ease-all{
 	-webkit-transition: all 350ms ease-in-out;
 	-moz-transition: all 350ms ease-in-out;
@@ -43,7 +51,7 @@ html {
 .social-bottom a:link,
 .social-bottom a:visited  {
 	display: inline-block;
-	
+
 	margin: 1rem .25rem;
 	text-align: center;
 	padding: 20px;
@@ -70,8 +78,8 @@ html {
 .social-bottom a:hover,
 .social-bottom a:active,
 .social-bottom a:focus{
-	-webkit-box-shadow: inset 0px 0px 0px 3px #00ca8f;
-	-moz-box-shadow: inset 0px 0px 0px 3px #00ca8f;
+	-webkit-box-shadow: inset 0px 0px 0px 3px #740073;
+	-moz-box-shadow: inset 0px 0px 0px 3px #740073;
 	-ms-box-shadow: inset 0px 0px 0px 3px #00ca8f;
 	-o-box-shadow: inset 0px 0px 0px 3px #00ca8f;
 	box-shadow: inset 0px 0px 0px 3px #00ca8f;
