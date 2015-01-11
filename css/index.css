@@ -21,6 +21,11 @@ body {
 	background-color: #5b535f;
 }
 
+h1 {
+	font-family: cursive;
+	font-size: 2.5rem;
+}
+
 .icon-f:before {
 	width: 30px;
 }
